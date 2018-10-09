@@ -8,7 +8,7 @@ This lesson is mostly based on material from the [Software Carpentry](https://so
 
 
 ## To do *before* the workshop
-[Pre-workshop survey](link to survey): plese fill this in at least two days in advance of the workshop!
+[Pre-workshop survey](link to survey): please fill this in at least two days in advance of the workshop!
 
 
 ## Workshop Pre-requisites
