@@ -18,10 +18,8 @@ This lesson is mostly based on material from the [Software Carpentry](https://so
 
 2. Learners must install Python and Jupyter Notebook before the class starts - we strongly recommend that you use the platform independent [Anaconda Python Distribution](https://www.anaconda.com/distribution/) provided for free by Anaconda, Inc. This distribution comes with a large number of scientific packages pre-installed, including Jupyter Notebook.
 
-	* download the Python 3.7 version of Anaconda [here](https://www.anaconda.com/download/) for your operating system (macOS, Linux, Windows)  
-          If you already have Anaconda installed, please make sure you have Python version 3.5 or newer installed (if you are running Python 2.7 we can send you instructions for setting up an extra Python 3 environment alongside your Python 2.7 installation using Anaconda - contact Johan or Doris).
-
-
+	* download the Python 3.7 version of Anaconda [here](https://www.anaconda.com/download/) for your operating system (macOS, Linux, Windows)
+        * If you already have Anaconda installed, please make sure you have Python version 3.5 or newer installed (if you are running Python 2.7 we can send you instructions for setting up an extra Python 3 environment alongside your Python 2.7 installation using Anaconda - contact Johan or Doris).
 
 3. Learners must get the gapminder data before class starts: please download and unzip the file [python-novice-gapminder-data.zip](https://files.dtu.dk/u/4iVV-a8lVf_wJVX4/python-novice-gapminder-data.zip?l)
 
@@ -37,8 +35,9 @@ This is also a good way to keep a record of what you've done, your solutions to 
 
 *Schedule:*
 
-| Meet up in room 8 in building 780 (Risø Campus) | Setup, and any questions / installation trobleshooting |  |
+| Time | Topic | Content |
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 09:00 | 0. Meet up in room 8 in building 780 (Risø Campus)	 | Setup, and any questions / installation trobleshooting |
 | 09:15 | 1. [Running and Quitting](https://swcarpentry.github.io/python-novice-gapminder/01-run-quit/index.html)	 | How can I run Python programs? |
 | 09:30 | 2. [Variables and Assignment](https://swcarpentry.github.io/python-novice-gapminder/02-variables/index.html) | How can I store data in programs? |
 | 09:50 | 3. [Data Types and Type Conversion](https://swcarpentry.github.io/python-novice-gapminder/03-types-conversion/index.html)	 | What kinds of data do programs store?   How can I convert one type to another? |
