@@ -2,8 +2,7 @@
 
 This page is rendered as an html page [here](https://hjelmj.github.io/python-novice-DTU-2018-10-17/).
 
-A repository with teaching materials for a Python workshop at DTU Energy 2018-10-17. This lesson is an introduction to programming in Python
-for people with little or no previous programming experience. It uses plotting as its motivating example.
+This lesson is an introduction to programming in Python for people with little or no previous programming experience. It uses plotting as its motivating example.
  
 This lesson is mostly based on material from the [Software Carpentry](https://software-carpentry.org/) lesson [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/).
 
