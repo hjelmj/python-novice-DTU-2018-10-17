@@ -26,7 +26,7 @@ This lesson is mostly based on material from the [Software Carpentry](https://so
 
 ## Set-up instructions 
 
-Detailed setup instructions (for the installation of Anaconda) can be found [here]().
+Detailed setup instructions (for the installation of Anaconda) can be found [here](https://swcarpentry.github.io/python-novice-gapminder/setup/).
 
 
 ## Agenda for the workshop
