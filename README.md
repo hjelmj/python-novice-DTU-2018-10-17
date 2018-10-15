@@ -88,6 +88,10 @@ There are interesting and useful galleries with examples of notebooks for many d
 * [Matplotlib's Gallery](https://matplotlib.org/gallery/index.html) - full of examples of different plot types and provides the source code for all of them (try to copy the link to the source code, and then type `%load <insert copied link here>` in a cell in a Jupyter notebook and see what happens...(then execute this cell).
 * [The Python Graph Gallery](https://python-graph-gallery.com/) -  a large collection of examples also covering other popular visualization packages.
 
+### The Anatomy of a Matplotlib Figure
+
+* A great illustration of the anatomy of a Matplotlib figure is available [here](https://matplotlib.org/examples/showcase/anatomy.html) and reproduced below:
+<img src="img/anatomy_of_matplotlib_figure.png" style="height: 750px, text-align: center">
 
 ### Cheat Sheets
 
@@ -97,9 +101,3 @@ The following are examples of cheat sheets that can be helpful. The ones linked 
 * [Pandas Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
 * [Linear Algebra with SciPy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
 
-### Books
-
-
-### Scientific Packages - some examples
-
-FIXME
