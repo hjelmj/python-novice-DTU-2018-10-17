@@ -67,10 +67,39 @@ All the notebooks used by the instructors can be found [here](https://github.com
 
 ## What else is out there?
 
-### Tutorials
+The Python based scientific eco-system is growing fast and there are many useful generic and domain specific packages that are available. There is a quite comprehensive list of tutorials, packages, books etc on the [Topical Software](https://www.scipy.org/topical-software.html) page from the SciPy documentation pages.
 
-FIXME
+### Matlab to Python/NumPy
 
-### Scientific Packages
+For those with experience from MATLAB there are some useful resources to aid in the process of getting proficient with Numpy/Scipy, see for example the page ["NumPy for Matlab users"](https://docs.scipy.org/doc/numpy-1.15.0/user/numpy-for-matlab-users.html) and the table from Mathesaurus [here](http://mathesaurus.sourceforge.net/matlab-numpy.html).
+
+### Tutorials & Galleries
+
+Some of the most useful sets of tutorials for getting started include:
+
+* [Software Carpentry]() - Lessons to help getting started with Python, Version Control, Unix Shell, etc
+* [Python SciPy Lecture Notes](https://www.scipy-lectures.org/) - a tutorial and an excellent reference
+* [Lectures on Scientific Computing](https://github.com/jrjohansson/scientific-python-lectures) by J.R. Johansson - another excellent set of tutorials. In particular [Lecture 4 on Matplotlib](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/Lecture-4-Matplotlib.ipynb) is very good and is strongly recommended.
+* This is not a tutorial but a useful figure to study to understand [the anatomy of a matplotlib figure]()
+
+There are interesting and useful galleries with examples of notebooks for many different purposes (*e.g.* you can find the LIGO gravitational wave detection analysis as a notebook [here]()), see for example:
+
+* [A Gallery of Interesting Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - an great collection of notebooks curated by the Jupyter team.
+* [Matplotlib's Gallery](https://matplotlib.org/gallery/index.html) - full of examples of different plot types and provides the source code for all of them (try to copy the link to the source code, and then type `%load <insert copied link here>` in a cell in a Jupyter notebook and see what happens...(then execute this cell).
+* [The Python Graph Gallery](https://python-graph-gallery.com/) -  a large collection of examples also covering other popular visualization packages.
+
+
+### Cheat Sheets
+
+The following are examples of cheat sheets that can be helpful. The ones linked to below are provided by DataCamp and are geared towards Data Science.
+
+* [Numpy Cheat Sheet ](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+* [Pandas Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+* [Linear Algebra with SciPy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
+
+### Books
+
+
+### Scientific Packages - some examples
 
 FIXME
