@@ -77,21 +77,18 @@ For those with experience from MATLAB there are some useful resources to aid in 
 
 Some of the most useful sets of tutorials for getting started include:
 
-* [Software Carpentry]() - Lessons to help getting started with Python, Version Control, Unix Shell, etc
+* [Software Carpentry](https://software-carpentry.org/lessons/) - Lessons to help getting started with Python, Version Control, Unix Shell, etc
 * [Python SciPy Lecture Notes](https://www.scipy-lectures.org/) - a tutorial and an excellent reference
 * [Lectures on Scientific Computing](https://github.com/jrjohansson/scientific-python-lectures) by J.R. Johansson - another excellent set of tutorials. In particular [Lecture 4 on Matplotlib](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/Lecture-4-Matplotlib.ipynb) is very good and is strongly recommended.
-* This is not a tutorial but a useful figure to study to understand [the anatomy of a matplotlib figure]()
+* This is not a tutorial but a useful figure to study to understand [the anatomy of a matplotlib figure](https://matplotlib.org/examples/showcase/anatomy.html) and reproduced below) and is also reproduced below:
+
+<img src="img/anatomy_of_matplotlib_figure.png" style="height: 750px, text-align: center">
 
 There are interesting and useful galleries with examples of notebooks for many different purposes (*e.g.* you can find the LIGO gravitational wave detection analysis as a notebook [here]()), see for example:
 
 * [A Gallery of Interesting Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - an great collection of notebooks curated by the Jupyter team.
 * [Matplotlib's Gallery](https://matplotlib.org/gallery/index.html) - full of examples of different plot types and provides the source code for all of them (try to copy the link to the source code, and then type `%load <insert copied link here>` in a cell in a Jupyter notebook and see what happens...(then execute this cell).
 * [The Python Graph Gallery](https://python-graph-gallery.com/) -  a large collection of examples also covering other popular visualization packages.
-
-### The Anatomy of a Matplotlib Figure
-
-* A great illustration of the anatomy of a Matplotlib figure is available [here](https://matplotlib.org/examples/showcase/anatomy.html) and reproduced below:
-<img src="img/anatomy_of_matplotlib_figure.png" style="height: 750px, text-align: center">
 
 ### Cheat Sheets
 
