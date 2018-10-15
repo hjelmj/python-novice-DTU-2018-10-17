@@ -80,9 +80,9 @@ Some of the most useful sets of tutorials for getting started include:
 * [Software Carpentry](https://software-carpentry.org/lessons/) - Lessons to help getting started with Python, Version Control, Unix Shell, etc
 * [Python SciPy Lecture Notes](https://www.scipy-lectures.org/) - a tutorial and an excellent reference
 * [Lectures on Scientific Computing](https://github.com/jrjohansson/scientific-python-lectures) by J.R. Johansson - another excellent set of tutorials. In particular [Lecture 4 on Matplotlib](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/Lecture-4-Matplotlib.ipynb) is very good and is strongly recommended.
-* This is not a tutorial but a useful figure to study to understand [the anatomy of a matplotlib figure](https://matplotlib.org/examples/showcase/anatomy.html) and reproduced below) and is also reproduced below:
+* This is not a tutorial but a useful figure to study to understand [the anatomy of a matplotlib figure](https://matplotlib.org/examples/showcase/anatomy.html) and is also displayed below:
 
-<img src="img/anatomy_of_matplotlib_figure.png" style="height: 750px, text-align: center">
+![anatomy_of_matplotlib_figure](https://matplotlib.org/examples/showcase/anatomy.html)
 
 There are interesting and useful galleries with examples of notebooks for many different purposes (*e.g.* you can find the LIGO gravitational wave detection analysis as a notebook [here]()), see for example:
 
