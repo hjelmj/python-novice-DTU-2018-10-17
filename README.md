@@ -84,7 +84,7 @@ Some of the most useful sets of tutorials for getting started include:
 
 ![anatomy_of_matplotlib_figure](https://matplotlib.org/examples/showcase/anatomy.html)
 
-There are interesting and useful galleries with examples of notebooks for many different purposes (*e.g.* you can find the LIGO gravitational wave detection analysis as a notebook [here]()), see for example:
+There are interesting and useful galleries with examples of notebooks for many different purposes (*e.g.* you can find the LIGO gravitational wave detection analysis as a notebook [here](https://www.gw-openscience.org/s/events/GW150914/LOSC_Event_tutorial_GW150914.html)), see for example:
 
 * [A Gallery of Interesting Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - an great collection of notebooks curated by the Jupyter team.
 * [Matplotlib's Gallery](https://matplotlib.org/gallery/index.html) - full of examples of different plot types and provides the source code for all of them (try to copy the link to the source code, and then type `%load <insert copied link here>` in a cell in a Jupyter notebook and see what happens...(then execute this cell).
