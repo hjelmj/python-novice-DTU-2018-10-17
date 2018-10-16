@@ -3,7 +3,7 @@
 This page is rendered as an html page [here](https://hjelmj.github.io/python-novice-DTU-2018-10-17/).
 
 This lesson is an introduction to programming in Python for people with little or no previous programming experience. It uses plotting as its motivating example.
- 
+
 This lesson is mostly based on material from the [Software Carpentry](https://software-carpentry.org/) lesson [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/).
 
 
@@ -60,7 +60,7 @@ This is also a good way to keep a record of what you've done, your solutions to 
 | 16:10 | 20. **Finish** |  |
 | *By email after class* | 21. Feedback | How did the class go? --> Survey will be emailed out |
 
- 
+
 ## Workshop repository
 
 All the notebooks used by the instructors can be found [here](https://github.com/hjelmj/python-novice-DTU-2018-10-17).
@@ -82,7 +82,7 @@ Some of the most useful sets of tutorials for getting started include:
 * [Lectures on Scientific Computing](https://github.com/jrjohansson/scientific-python-lectures) by J.R. Johansson - another excellent set of tutorials. In particular [Lecture 4 on Matplotlib](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/tree/master/Lecture-4-Matplotlib.ipynb) is very good and is strongly recommended.
 * This is not a tutorial but a useful figure to study to understand [the anatomy of a matplotlib figure](https://matplotlib.org/examples/showcase/anatomy.html) and is also displayed below:
 
-![anatomy_of_matplotlib_figure](https://matplotlib.org/examples/showcase/anatomy.html)
+![anatomy_of_matplotlib_figure](https://matplotlib.org/mpl_examples/showcase/anatomy.png)
 
 There are interesting and useful galleries with examples of notebooks for many different purposes (*e.g.* you can find the LIGO gravitational wave detection analysis as a notebook [here](https://www.gw-openscience.org/s/events/GW150914/LOSC_Event_tutorial_GW150914.html)), see for example:
 
